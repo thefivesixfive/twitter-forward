@@ -2,11 +2,16 @@
 ###### Post to your Twitter, straight from Discord!
 
 The `.env` file must be place in the same directory as the Python file
-and needs five variables: 
-`DISCORD_TOKEN` Your Discord bot token 
-`TWITTER_API_KEY` Your Twitter API key 
-`TWITTER_API_SECRET` Your Twitter API secret 
-`TWITTER_ACCESS_TOKEN` Your Twitter Access Token 
+and needs five variables:
+
+`DISCORD_TOKEN` Your Discord bot token
+
+`TWITTER_API_KEY` Your Twitter API key
+
+`TWITTER_API_SECRET` Your Twitter API secret
+
+`TWITTER_ACCESS_TOKEN` Your Twitter Access Token
+
 `TWITTER_ACCESS_SECRET` Your Twitter Access Secret 
  
 All of these require a Twitter Developer account and a Discord developer 
