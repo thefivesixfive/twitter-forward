@@ -1,3 +1,10 @@
+### ⚠️ Disclaimer
+I'll be straightforward, I have not touched this project in nearly three years since I posted my video on it.
+Since Elon's overtake of Twitter I don't even wanna touch the API so this software is better marked as
+deprecated; however, I will be keeping the below documentation for the sake of record keeping.
+
+- - -
+
 # Twitter Forwarding Bot
 ###### Post to your Twitter, straight from Discord!
 
